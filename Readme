@@ -42,8 +42,7 @@ cd voice-to-text-note-app
 ---
 
 ### 🔹 2. Backend Setup (Go)
-
-cd backend/  
+add deepgram api key in handlers/transcribe.go
 go mod tidy  
 go run main.go
 

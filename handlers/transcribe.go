@@ -14,7 +14,7 @@ import (
 	"voice-to-text-app/storage"
 )
 
-const deepgramAPIKey = ""
+const deepgramAPIKey = "" // add your key
 
 func init() {
 	// Create recordings directory if it doesn't exist
